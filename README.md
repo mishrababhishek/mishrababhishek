@@ -2,7 +2,7 @@
 
 ## 🚀 Versatile Developer | Open-Source Contributor | Tech Explorer
 
-![Coding Animation](https://raw.githubusercontent.com/mishrababhishek/mishrababhishek/master/animation.gif)
+<img src="https://raw.githubusercontent.com/mishrababhishek/mishrababhishek/master/animation.gif" alt="Prasar Logo" width="200" height="200">
 
 🌱 Proficient in Web, Android, Cloud, and more
 💻 Committed to crafting secure, captivating user experiences across platforms
