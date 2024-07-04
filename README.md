@@ -2,7 +2,7 @@
 
 ## 🚀 Versatile Developer | Open-Source Contributor | Tech Explorer
 
-![Coding Animation](https://your-animation-url-here.gif)
+![Coding Animation](https://raw.githubusercontent.com/mishrababhishek/mishrababhishek/master/animation.gif)
 
 🌱 Proficient in Web, Android, Cloud, and more
 💻 Committed to crafting secure, captivating user experiences across platforms
