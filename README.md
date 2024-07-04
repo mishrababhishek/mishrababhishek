@@ -29,6 +29,6 @@ Highly motivated developer with expertise spanning web, mobile, and cloud techno
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mishrababhishek/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/mishrababhishek)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mishraabhishek.2899@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=WhatsApp&logoColor=white)](tel:+918788334574)
+[![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+918788334574)
 
 💡 Always open to collaborating on projects and innovative ideas. Let's connect and create something amazing together!
